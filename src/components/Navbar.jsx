@@ -8,7 +8,7 @@ const Navbar = () => {
 
             <div className="left">
                 <div className="img">
-                    <img src="/public/apple.svg" alt="" />
+                    <img src="/apple.svg" alt="" />
                 </div>
                 <p>Tameem Akhtar</p>
                 <p>File</p>
@@ -18,7 +18,7 @@ const Navbar = () => {
             </div>
             <div className="right">
                 <div className="wifi">
-                    <img src="/public/wifi.svg" alt="" />
+                    <img src="/wifi.svg" alt="" />
                 </div>
                 <DateTime />
             </div>
