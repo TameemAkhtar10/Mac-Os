@@ -1,0 +1,15 @@
+.spotify-window {
+    height: 100%;
+    overflow: hidden;       
+    box-sizing: border-box;  
+    display: flex;          
+    flex-direction: column; 
+
+    iframe {
+        flex: 1;             
+        min-height: 0;       
+        width: 100%;
+        display: block;      
+        border: none;        
+    }
+}

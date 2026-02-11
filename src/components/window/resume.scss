@@ -1,0 +1,19 @@
+.resume-window {
+    height: 100%;
+    overflow: hidden;       
+    box-sizing: border-box; 
+    display: flex;         
+    flex-direction: column; 
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+
+    iframe {
+        flex: 1;         
+        min-height: 0;       
+        width: 100%;
+        display: block;      
+        border: none;     
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+    }
+}

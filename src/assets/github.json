@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=1000",
+    "title": "Productivity Dashboard",
+    "description": "A comprehensive dashboard featuring a To-Do list, Daily Planner, Goals tracker, and Pomodoro timer to enhance daily efficiency and overall productivity. ",
+    "tags": ["HTML", "CSS", "JavaScript", "Responsive Design"],
+    "repoLink": "https://github.com/tameemakhtar10/PRODUCTIVITY-DASHBOARD",
+    "demoLink": "https://tameemakhtar10.github.io/PRODUCTIVITY-DASHBOARD/"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&q=80&w=1000",
+    "title": "Ever-After Photography",
+    "description": "A premium landing page for professional wedding photography, showcasing portfolios and service packages with a timeless elegance.",
+    "tags": ["React", "Tailwind CSS", "Vercel", "AOS Animation"],
+    "repoLink": "https://github.com/tameemakhtar10/ever-after-premium-photography",
+    "demoLink": "https://ever-after-premium-photography.vercel.app/"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1542744094-24638eff58bb?auto=format&fit=crop&q=80&w=1000",
+    "title": "Tamim's Web Studio",
+    "description": "An interactive digital whiteboard and design tool allowing users to draw, add shapes, and export designs as JSON or HTML.",
+    "tags": ["JavaScript", "Canvas API", "Web Studio", "Frontend"],
+    "repoLink": "https://github.com/tameemakhtar10/tamim-s-web-studio",
+    "demoLink": "https://tameemakhtar10.github.io/tamim-s-web-studio/"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&q=80&w=1000",
+    "title": "Essence Beauty Store",
+    "description": "An e-commerce product showcase featuring beauty and skincare items with detailed descriptions and pricing.",
+    "tags": ["React", "API Integration", "Ecommerce", "CSS Modules"],
+    "repoLink": "https://github.com/tameemakhtar10/products-store",
+    "demoLink": "https://products-store-lyart.vercel.app/"
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?auto=format&fit=crop&q=80&w=1000",
+    "title": "Astratto Design Agency",
+    "description": "A modern creative agency landing page focusing on branding and 'Magico' design solutions for businesses.",
+    "tags": ["React.js", "Framer Motion", "Tailwind", "Creative Design"],
+    "repoLink": "https://github.com/tameemakhtar10/astratto-page",
+    "demoLink": "https://astratto-page.vercel.app/"
+  }
+]

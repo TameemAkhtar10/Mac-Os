@@ -1,0 +1,73 @@
+.cli-window {
+  padding: 16px;
+  font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+  font-size: 13px;
+  height: 100%;
+  overflow-y: auto;
+  box-sizing: border-box;
+  line-height: 1.6;
+  cursor: text;
+  color: #fcfcfa;
+  background-color: #1c1c1e;
+
+  .welcome-msg {
+    color: #00ff00;
+    margin: 0 0 10px 0;
+    white-space: pre-wrap;
+    font-family: inherit;
+    font-size: inherit;
+  }
+
+  .output-line {
+    margin-bottom: 2px;
+  }
+
+  .input-line {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .prompt {
+    color: #00ff00;
+    font-weight: bold;
+    white-space: nowrap;
+  }
+
+  .cmd-text {
+    color: #fcfcfa;
+  }
+
+  pre {
+    margin: 0;
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    color: #fcfcfa;
+  }
+
+  form {
+    display: flex;
+    align-items: center;
+  }
+
+  input {
+    flex: 1;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #fcfcfa;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    caret-color: #00ff00;
+    padding: 0;
+    margin: 0;
+  }
+
+  ::selection {
+    background: rgba(0, 255, 0, 0.2);
+    color: #fcfcfa;
+  }
+}
